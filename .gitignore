@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Local SDK config (never commit)
+local.properties
+
+# Firebase (never commit)
+**/google-services.json
+
+# temp/backup files
+*.save

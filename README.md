@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:**  Haochen Jia
+- **CCID:**  hjia6
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
 
@@ -15,3 +15,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | -------- |
 | `<example1>` | `<CCID>` |
 | `<example2>` | `<CCID>` |
+     N/A           N/A
